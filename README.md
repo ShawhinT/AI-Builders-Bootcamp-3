@@ -8,5 +8,4 @@ Course homepage on Maven: https://maven.com/shaw-talebi/ai-builders-bootcamp
 ## Lightning Lesson: Build AI-Powered Customer Segments (That Scale)
 Building customer segments using Python, OpenAI's API, and sklearn.
 
-Examples:
-- coming soon!
+- [Example Code](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/lightning-lesson/customer_segmentation_example.ipynb)
