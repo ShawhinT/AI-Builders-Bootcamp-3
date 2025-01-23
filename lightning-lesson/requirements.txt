@@ -1,0 +1,6 @@
+jupyterlab
+ipykernel
+openai
+pandas
+scikit-learn
+matplotlib
