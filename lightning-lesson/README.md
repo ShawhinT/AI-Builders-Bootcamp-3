@@ -2,8 +2,9 @@
 
 Links:
 - [Example Notebook](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/lightning-lesson/customer_segmentation_example.ipynb)
-- Slides (coming soon!)
-- Recording (coming soon!)
+- [Recording](https://youtu.be/QvxuR8uLPFs)
+- Blog: coming soon!
+- [Slides](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/lightning-lesson/slides.pdf)
 
 ## How to run this example
 
