@@ -3,6 +3,7 @@
 Links:
 - [Example 1: Scraping AI Job Board with Python](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-1/example_1-scrape_job_board.ipynb)
 - [Example 2: AI Job Dashboard with Plotly Dash](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-1/example_2-ai_job_dashboard.ipynb)
+- [Live Example: Scraping Job Board](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-1/example_live-scrape_job_board)
 
 ## How to run the examples
 
