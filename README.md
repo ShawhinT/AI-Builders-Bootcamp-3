@@ -16,3 +16,10 @@ Getting started with AI and building basic automation scripts with Python.
 Examples:
 - [Scraping AI job board](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-1/example_1-scrape_job_board.ipynb)
 - [Building Dashboard with Plotly Dash](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-1/example_2-ai_job_dashboard.ipynb)
+
+## Session 2: Software 2.0, Data Engineering, Machine Learning
+Building ETL pipelines for machine learning projects.
+
+Examples
+- [AI Job Data ETL](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-2/example_1-ai_job_etl.ipynb)
+- [Data Scientist/MLE Role Classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-2/example_2-train_job_classifier.ipynb)
