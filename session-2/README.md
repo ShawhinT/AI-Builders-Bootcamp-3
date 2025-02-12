@@ -1,8 +1,8 @@
 # Session 2: Software 2.0, Data Engineering, ML
 
 Links:
-- Example 1:
-- Example 2:
+- Example 1: [AI Job Data ETL](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-2/example_1-ai_job_etl.ipynb)
+- Example 2: [Data Scientist/MLE Role Classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-3/blob/main/session-2/example_2-train_job_classifier.ipynb)
 
 ## How to run the examples
 
