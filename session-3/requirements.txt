@@ -1,0 +1,9 @@
+jupyterlab
+ipykernel
+ipywidgets
+PyMuPDF
+openai
+scikit-learn
+ollama
+gradio
+python-dotenv
